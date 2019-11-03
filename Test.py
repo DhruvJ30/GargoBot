@@ -1,21 +1,3 @@
 print Hello World
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-//PJ was here
->>>>>>> 88cf614e2a15dc831488437031e25538d27e7dca
-
-
-
-
-https://stackoverflow.com/questions/17659206/git-push-results-in-authentication-failed
-=======
 ##PJ was here
->>>>>>> 934158526b93fb67c15351bda6c6b9110039c170
-=======
-##PJ was here
->>>>>>> 934158526b93fb67c15351bda6c6b9110039c170
-
-
 ##abhishek was here
